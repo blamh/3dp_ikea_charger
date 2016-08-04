@@ -3,7 +3,7 @@ $fs=0.5; // default minimum facet size is now 0.5 mm
 
 include <config.scad>
 
-// % translate([0,0,-1.5]) import("inc/nexus_5.stl", convexity=3);
+// % translate([0,0,-1.5]) import("inc_nexus_5.stl", convexity=3);
 difference() {
     translate([0,0,1]) box(h=5);
     scale([1.06,1.03,1.03]) {
