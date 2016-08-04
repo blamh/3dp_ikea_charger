@@ -6,7 +6,8 @@
         "short_desc": "Make a simpler platform for charging the Nexus One with Wireless charging. Modding the IKEA NORDMÄRKE charger. Made with OpenSCAD.",
         "tags": ["ikeahack", "ikea", "Nexus", "Android", "Charger", "wireless_charger"],
         "category": "For your home",
-        "license": "cc-nc-sa"
+        "license": "cc-nc-sa",
+        "image": "img.png"
     },
     "thingiverse": {
         "id": "thing:1703165",
@@ -18,6 +19,7 @@
         "customizer": false,
         "remix": false,
         "work_in_progress": false,
-        "license": "cc-nc-sa"
+        "license": "cc-nc-sa",
+        "image": "img.png"
     }
 }
